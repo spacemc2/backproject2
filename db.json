@@ -1,22 +1,39 @@
 {
   "tasks": [
     {
-      "text": "svsd",
-      "day": "s sd",
-      "reminder": true,
-      "id": 4
+      "id": "discos1",
+      "name": "ssd",
+      "info": true,
+      "image": "https://media.wired.com/photos/619e948578b5b847a0f9c0c4/master/pass/Business-Why-are-DVDs-Being-Made-1185528452.jpg",
+      "price":40
     },
     {
-      "text": "bgndgnd",
-      "day": "cbdfbnd",
-      "reminder": true,
-      "id": 5
+      "id": "discos2",
+      "name": "ssd",
+      "info": true,
+      "image": "https://media.wired.com/photos/619e948578b5b847a0f9c0c4/master/pass/Business-Why-are-DVDs-Being-Made-1185528452.jpg",
+      "price":40
     },
     {
-      "text": "fbfd",
-      "day": "fdbdfb",
-      "reminder": true,
-      "id": 6
+      "id": "discos3",
+      "name": "ssd",
+      "info": true,
+      "image": "https://media.wired.com/photos/619e948578b5b847a0f9c0c4/master/pass/Business-Why-are-DVDs-Being-Made-1185528452.jpg",
+      "price":40
+    },
+    {
+      "id": "discos1",
+      "name": "ssd",
+      "info": true,
+      "image": "https://media.wired.com/photos/619e948578b5b847a0f9c0c4/master/pass/Business-Why-are-DVDs-Being-Made-1185528452.jpg",
+      "price":40
+    },
+    {
+      "id": "discos4",
+      "name": "ssd",
+      "info": true,
+      "image": "https://media.wired.com/photos/619e948578b5b847a0f9c0c4/master/pass/Business-Why-are-DVDs-Being-Made-1185528452.jpg",
+      "price":40
     }
   ]
 }
