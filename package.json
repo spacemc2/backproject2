@@ -1,0 +1,13 @@
+{
+  "name": "my-app-backend",
+  "version": "0.1.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mike",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
