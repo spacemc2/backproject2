@@ -3,7 +3,14 @@
     {
       "id": "discos1",
       "name": "ssd",
-      "info": true,
+      "info": "El casete,1​ también conocido como casete compacto o cassette (en francés, ‘cajita’), es un formato de grabación de sonido o vídeo en cinta 
+      magnética que fue ampliamente utilizado entre principios de los años 1970 y fines de la década de 1990. Es también mencionado a menudo como casete de 
+      audio o cinta casete. Aunque estuvieron previstos originalmente como medio para el dictado, las mejoras en la fidelidad del sonido condujeron a que el 
+casete suplantara la grabación en magnetófono de bobina abierta en la mayoría de sus usos domésticos. Sus aplicaciones se extendieron desde el audio portátil 
+      de grabación casera al almacenamiento de datos para computadoras. En la etapa de su vigencia, era uno de los dos formatos más comunes para la música 
+      pregrabada, junto a los discos de vinilo. Fueron reemplazados más adelante por el disco compacto. 
+      Constan de dos carretes en miniatura, entre los cuales se pasa una cinta magnética. Estos carretes y sus otras piezas se encuentran dentro de una carcasa 
+      protectora de plástico. En la cinta están disponibles dos pares de pistas estereofónicas, uno por cada cara (una cara se reproduce cuando el casete se inserta con sus revestimientos laterales de cara A o lado A para arriba y la otra cuando se le da la vuelta, cara B o lado B",
       "image": "https://media.wired.com/photos/619e948578b5b847a0f9c0c4/master/pass/Business-Why-are-DVDs-Being-Made-1185528452.jpg",
       "price":40
     },
